@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "imap": "^0.8.19",
+    "js-object-cache": "^0.1.2",
+    "nodemailer": "^6.7.8",
+    "q-encoding": "^1.0.0",
+    "uWebSockets.js": "uNetworking/uWebSockets.js#v20.10.0"
+  }
+}

@@ -1,0 +1,74 @@
+﻿_id,aufzug_nr_SAP_code,ort,u-bahnhof_lang,u-bahnhof_kurz,lage_aufzug,efa_nr_bhf,standort_von,standort_nach_1,standort_nach_2,standort_nach_3,lichte_breite_aufzugstuer_cm,breite_kabine_cm,tiefe_kabine_cm,durchlader,koordinate_breite,koordinate-laenge
+1,71030786,Nürnberg,Aufseßplatz,AP,Bahnsteigmitte,534,Bahnsteig,Straßenebene,"","",90,105,140,"",49440806,11080173
+2,71000109,Nürnberg,Bärenschanze,BS,Bahnsteigmitte,702,Bahnsteig,Straßenebene,"","",90,110,140,"",49452587,11050733
+3,71000020,Nürnberg,Bauernfeindstraße,BA,B-Kopf,1550,Bahnsteig,Straßenebene,"","",90,110,150,x,49417388,11107285
+4,71000128,Nürnberg,Eberhardshof,EB,"EB3, A-Kopf",1103,Verteilerebene,Straßenebene,"","",90,110,132,"",49457760,11034109
+5,71000127,Nürnberg,Eberhardshof,EB,"EB2, A-Kopf",1103,Verteilerebene,Straßenebene,"","",90,110,135,x,49458111,11034287
+6,71000126,Nürnberg,Eberhardshof,EB,"EB1, A-Kopf",1103,Bahnsteig,Verteilerebene,"","",90,110,132,x,49457945,11034032
+7,71000268,Nürnberg,Flughafen,FL,"FL2, B-Kopf",1391,Bahnsteig,Straßenebene,"","",100,176,234,x,49494020,11078671
+8,71000267,Nürnberg,Flughafen,FL,"FL1, A-Kopf",1391,Bahnsteig,Straßenebene,"","",100,176,234,x,49494068,11077749
+9,71030913,Nürnberg,Frankenstraße,FR,B-Kopf,561,Bahnsteig,Straßenebene,"","",90,110,140,x,49430633,11086353
+10,71002909,Nürnberg,Friedrich-Ebert-Platz,FE,Bahnsteigmitte,232,Bahnsteig,Verteilerebene,Straßenebene,"",100,125,205,x,49462490,11071376
+11,71000192,Fürth,Fürth Hardhöhe,HF,B-Kopf,2390,Bahnsteig,Straßenebene,"","",100,130,210,x,49480401,10957135
+12,71000157,Fürth,Fürth Hauptbahnhof,FH,B-Kopf,2110,Bahnsteig,Verteilerebene,Straßenebene,"",90,110,140,x,49470557,10990716
+13,71000146,Fürth,Fürth Jakobinenstraße,JA,A-Kopf,2171,Bahnsteig,Verteilerebene,Straßenebene,"",90,110,140,x,49468131,11000941
+14,71000183,Fürth,Fürth Klinikum,KF,B-Kopf,2180,Bahnsteig,Straßenebene,"","",100,140,210,x,49482575,10968582
+15,71000172,Fürth,Fürth Rathaus,RF,"RF2, A-Kopf",2164,Bahnsteig,Straßenebene,"","",100,140,160,x,49477146,10988566
+16,71000171,Fürth,Fürth Rathaus,RF,"RF1, B-Kopf",2164,Bahnsteig,Straßenebene,"","",100,140,160,"",49477894,10988191
+17,71000177,Fürth,Fürth Stadthalle,SF,B-Kopf,2130,Bahnsteig,Straßenebene,"","",100,140,160,x,49480436,10981017
+18,71032035,Nürnberg,Gemeinschaftshaus,GE,B-Kopf,1506,Bahnsteig,Straßenebene,"","",90,110,145,x,49401521,11135577
+19,71000103,Nürnberg,Gostenhof,GO,Bahnsteigmitte,703,Bahnsteig,Straßenebene,"","",90,110,140,"",49424451,11089754
+20,71000272,Nürnberg,Gustav-Adolf-Straße,GA,B-Kopf,654,Bahnsteig,Straßenebene,"","",100,125,210,x,49439062,11035820
+21,71031148,Nürnberg,Hasenbuck,HA,B-Kopf,1701,Bahnsteig,Verteilerebene,Straßenebene,"",90,110,140,x,49424451,11089754
+22,71002664,Nürnberg,Herrnhütte,HH,B-Kopf,1324,Bahnsteig,Straßenebene,Parkhaus,"",89,120,162,x,49478365,11109763
+23,71000207,Nürnberg,Hohe Marter,HM,A-Kopf,1902,Bahnsteig,Straßenebene,"","",85,110,140,"",49429119,11044052
+24,71002908,Nürnberg,Kaulbachplatz,KA,A-Kopf,250,Bahnsteig,Straßenebene,"","",100,125,210,x,49463348,11078274
+25,71033905,Nürnberg,Klinikum-Nord,KN,Bahnsteigmitte,258,Bahnsteig,Straßenebene,"","",100,125,200,x,49464040,11063873
+26,71000012,Nürnberg,Langwasser Mitte,LM,A-Kopf,1567,Bahnsteig,Straßenebene,"","",90,110,140,"",49404655,11131908
+27,71000016,Nürnberg,Langwasser Nord,LN,B-Kopf,1503,Bahnsteig,Straßenebene,"","",90,110,142,x,49412830,11120964
+28,71031830,Nürnberg,Langwasser Süd,LS,A-Kopf,1507,Bahnsteig,Straßenebene,"","",90,110,150,x,49398470,11140941
+29,71000076,Nürnberg,Lorenzkirche,LO,B-Kopf,511,Bahnsteig,Verteilerebene,"","",120,150,195,"",,
+30,71031910,Nürnberg,Maffeiplatz,MP,A-Kopf,503,Bahnsteig,Verteilerebene,Straßenebene,"",90,110,145,x,49435273,11084315
+31,71000285,Nürnberg,Maxfeld,MF,B-Kopf,331,Bahnsteig,Straßenebene,"","",100,130,223,x,49463320,11085259
+32,71031831,Nürnberg,Maximilianstraße,MA,A-Kopf,701,Bahnsteig,Straßenebene,"","",90,105,135,x,49455128,11042591
+33,71000018,Nürnberg,Messe,ME,B-Kopf,1502,Bahnsteig,Straßenebene,"","",90,110,130,x,49415880,11113765
+34,71000136,Nürnberg,Muggenhof,MU,"MU2, A-Kopf",1102,Bahnsteig,Straßenebene,"","",90,110,140,x,49461479,11023192
+35,71000135,Nürnberg,Muggenhof,MU,"MU1, A-Kopf",1102,Bahnsteig,Straßenebene,"","",90,110,140,x,49461549,11023246
+36,71000255,Nürnberg,Nordostbahnhof,NO,A-Kopf,1335,Bahnsteig,Verteilerebene,Straßenebene,"",90,132,151,x,49472398,11104431
+37,71033906,Nürnberg,Nordwestring,NW,A-Kopf,275,Bahnsteig,Straßenebene (stadtauswärts),"","",100,125,210,x,49465810,11054505
+38,71033907,Nürnberg,Nordwestring,NW,B-Kopf,275,Bahnsteig,Straßenebene (stadteinwärts),"","",100,125,210,x,49465583,11055443
+39,71000062,Nürnberg,Nürnberg Hauptbahnhof,HB,HB1 nach Bahnsteig U2,510,Bahnsteig U1,Bahnsteig U2,Verteilerebene,"",85,140,150,"",49446988,11082137
+40,71000063,Nürnberg,Nürnberg Hauptbahnhof,HB,HB U2 Bahnsteig nach Verteiler,510,Bahnsteig U2,Verteilerebene,Straßenebene,"",80,140,150,"",49446797,11081617
+41,71000064,Nürnberg,Nürnberg Hauptbahnhof,HB,"HB3, Stadtmission",510,Königstorpassage/Stadtmission,Hauptbahnhof Mittelhalle,"","",85,120,150,x,49446358,11081601
+42,71000228,Nürnberg,Opernhaus,OP,OP2 an der Stadtmauer,505,Übergang Stadtgraben,Straßenebene,"","",90,120,140,"",49447112,11074873
+43,71000227,Nürnberg,Opernhaus,OP,OP1 Bahnsteigmitte,505,Bahnsteig,Übergang Stadtgraben,"","",90,165,160,"",49446882,11074873
+44,71000099,Nürnberg,Plärrer 1,PL,A-Kopf,704,Bahnsteig,Bahnsteig,Verteilerebene,Straßenebene,94,113,220,"",49448242,11065496
+45,71025354,Nürnberg,Plärrer 2,PL,A-Kopf,704,Bahnsteig,Bahnsteig,Verteilerebene,Straßenebene,94,113,220,"",49448242,11065496
+46,71000241,Nürnberg,Rathenauplatz,RA,A-Kopf,332,Bahnsteig,Straßenebene,"","",80,110,140,"",49457127,11089540
+47,71000245,Nürnberg,Rennweg,RE,B-Kopf,340,Bahnsteig,Straßenebene,"","",90,110,145,x,49460949,11093220
+48,71000201,Nürnberg,Röthenbach,RB,"RB1, A-Kopf",1970,Bahnsteig,Verteilerebene,Straßenebene,"",85,110,140,x,49420962,11032003
+49,71002666,Nürnberg,Röthenbach,RB,"RB2, Parkhaus",1970,Parkhaus,Parkebene,Parkebene,"",,,,"",49421086,11033193
+50,71031149,Nürnberg,Rothenburger Straße,RO,B-Kopf,710,Bahnsteig,Verteilerebene,Straßenebene,"",100,160,215,"",49444238,11054832
+51,71000014,Nürnberg,Scharfreiterring,SR,"SR1, A-Kopf",1504,Bahnsteig,Straßenebene,"","",90,110,150,x,49408362,11126962
+52,71000289,Nürnberg,Scharfreiterring,SR,"SR2, A-Kopf",1504,Bahnsteig,Straßenebene,"","",90,110,150,x,49408328,11126833
+53,71000249,Nürnberg,Schoppershof,SH,A-Kopf,341,Bahnsteig,Straßenebene,"","",90,110,145,x,49464812,11100601
+54,71031940,Nürnberg,Schweinau,SC,A-Kopf,601,Bahnsteig,Straßenebene,"","",90,110,140,"",49434569,11048559
+55,71032766,Nürnberg,St. Leonhard,SL,B-Kopf,602,Bahnsteig,Straßenebene,"","",90,110,135,x,49438551,11049876
+56,71000140,Nürnberg,Stadtgrenze,SG,"SG2, B-Kopf",1101,Bahnsteig,Straßenebene,"","",90,110,140,"",49465590,11010792
+57,71000141,Nürnberg,Stadtgrenze,SG,"SG1, B-Kopf",1101,Bahnsteig,Straßenebene,"","",90,110,140,x,49465477,11010682
+58,71000280,Nürnberg,Sündersbühl,SB,A-Kopf,1120,Bahnsteig,Straßenebene,"","",100,130,210,x,49441992,11043985
+59,71000086,Nürnberg,Weißer Turm,WT,A-Kopf,101,Bahnsteig,Verteilerebene,Straßenebene,"",100,135,190,"",49450383,11070668
+60,71000235,Nürnberg,Wöhrder Wiese,WW,Bahnsteigmitte,333,Bahnsteig,Straßenebene,"","",80,110,155,x,49452497,11086857
+61,71000263,Nürnberg,Ziegelstein,ZI,B-Kopf,1320,Bahnsteig,Straßenebene,"","",100,110,158,x,49348506,11105225
+62,,"","","","",,"","","","",,,,"",,
+63,,"","","","",,"","","","",,,,"",,
+64,,"","","","",,"","","","",,,,"",,
+65,,"","","","",,"","","","",,,,"",,
+66,,"","","","",,"","","","",,,,"",,
+67,,"","","","",,"","","","",,,,"",,
+68,,"","","","",,"","","","",,,,"",,
+69,,"","","","",,"","","","",,,,"",,
+70,,"","","","",,"","","","",,,,"",,
+71,,"","","","",,"","","","",,,,"",,
+72,,"","","","",,"","","","",,,,"",,
+73,,"","","","",,"","","","",,,,"",,
